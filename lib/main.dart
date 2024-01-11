@@ -26,7 +26,7 @@ class MyApp extends StatelessWidget {
               fontSize: 20 )),
         ),
       body: Center(
-        child: Text( '안녕 세상아',
+        child: Text( '안녕 세상아 날 미워하지 말아줘',
         style: TextStyle(
             color: Colors.blue,
             fontSize: 50,
