@@ -19,14 +19,14 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         appBar: AppBar(
           backgroundColor: Colors.yellow,
-          title: Text('Welcome to my World',
+          title: Text('Welcome to my World2',
           style: TextStyle(
             color: Colors.pinkAccent,
             fontWeight: FontWeight.w500,
               fontSize: 20 )),
         ),
       body: Center(
-        child: Text( '안녕 세상아',
+        child: Text( '안녕 세상아 날 미워하지 말아줘',
         style: TextStyle(
             color: Colors.blue,
             fontSize: 50,
